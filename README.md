@@ -7,7 +7,7 @@ Meu nome é João Bittencourt!
 - 📚 - Sou desenvolvedor de Software Fullstack em formação pela Cubos Academy.
 - 🧑‍💻 - Tenho 25 anos e moro em Salvador - BA
 - 🛹 - Também sou skatista nas (poucas)horas vagas
-- 💾 - Neste perfil estarei postando projetos feitos no curso, e também projetos pessoais. Assim como ajudando dev's em seus repositórios
+- 💾 - Neste perfil estarei postando projetos feitos no curso, projetos pessoais, assim como ajudando dev's em seus repositórios
 
 <div>
   <a href="https://github.com/Joaob1">
