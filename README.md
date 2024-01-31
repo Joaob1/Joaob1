@@ -4,7 +4,7 @@
 <br>
 Meu nome é João Bittencourt!
 
-- 📚 - Sou desenvolvedor de Software Fullstack com foco em ReactJS e NodeJS.
+- 📚 - Sou desenvolvedor de Software Front-end (React.js, Next.js, Typescript, Tailwindcss)
 - 🧑‍💻 - Tenho 26 anos e moro em Salvador - BA
 - 🛹 - Também sou skatista nas (poucas)horas vagas
 - 💾 - Neste perfil estarei postando projetos feitos no curso, projetos pessoais, assim como ajudando dev's em seus repositórios
